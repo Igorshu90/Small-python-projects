@@ -2,8 +2,8 @@ import smtplib
 import datetime
 import time
 
-USER = 'igorsecondarymail@gmail.com'
-PSW = 'ctt20200400'
+USER = ''
+PSW = ''
 TIME_STUMP = 60 * 60
 RECIPIENTS = ['gilkuh@gmail.com']
 SUBJECT = 'אני לא חבר ליכוד מבקש לא לשלוח לי יותר הודעות סמס לנייד '
